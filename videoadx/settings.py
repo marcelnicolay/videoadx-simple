@@ -4,7 +4,7 @@ DEBUG = True
 PROFILING = False
 
 logging.basicConfig(
-    level = logging.DEBUG,
+    level = logging.ERROR,
 )
 
 ROOT_URLS = 'videoadx.urls'
