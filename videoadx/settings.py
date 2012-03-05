@@ -1,6 +1,6 @@
 import logging, os
 
-DEBUG = True
+DEBUG = False
 PROFILING = False
 
 logging.basicConfig(
